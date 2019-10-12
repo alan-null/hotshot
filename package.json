@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gornanization/hotshot/issues"
   },
-  "homepage": "https://github.com/gornanization/hotshot#readme"
+  "homepage": "https://github.com/gornanization/hotshot#readme",
+  "dependencies": {
+    "request": "2.88.0"
+  }
 }
